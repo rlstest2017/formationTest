@@ -1,2 +1,4 @@
 1er commit
 bruno a razjouté cette ligne.
+1er commit + conflit avec Bruno ! il est pas content !
+on laisse la modif de nicolas 
